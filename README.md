@@ -28,7 +28,8 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![OUTPUT](./exo1.png)
+![py ex 1](https://user-images.githubusercontent.com/93427376/144177313-c2b66340-2539-4fa2-81fb-ac5ea813e350.PNG)
+
 
 
 
